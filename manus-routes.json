@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "Zeke · HR & Workplace Assistant" },
+    { "path": "/webinars", "title": "HR Events · Zeke" },
+    { "path": "/tutorial", "title": "Full Services Tutorial · Zeke" },
+    { "path": "/dashboard", "title": "HR Dashboard · Zeke" },
+    { "path": "/workspace", "title": "HR Dashboard · Zeke" },
+    { "path": "/plans", "title": "Access Plans · Zeke" },
+    { "path": "/privacy", "title": "Privacy Policy · Zeke" },
+    { "path": "/terms", "title": "Terms of Use · Zeke" },
+    { "path": "/payroll-disclaimer", "title": "Payroll Disclaimer · Zeke" }
+  ]
+}
